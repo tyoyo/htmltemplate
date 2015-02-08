@@ -1,0 +1,25 @@
+/* jscrollpane*/
+html {
+  overflow: auto;
+}
+
+#page-container {
+  overflow: auto;
+}
+
+.scroll-pane {
+  overflow: auto;
+}
+
+.jspDrag {
+  background: #bbb;
+  width:8px;
+}
+
+.jspVerticalBar, .jspHorizontalBar {
+  width:8px;
+}
+
+.jspTrack {
+  background: #eee;
+}
